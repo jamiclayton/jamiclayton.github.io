@@ -51,3 +51,10 @@ h2{margin-top:0}
   .site-nav .search input{width:100%}
 }
 .visually-hidden{position:absolute!important;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px);white-space:nowrap}
+
+
+body.home {
+  background: url('assets/home-bg.jpg') center/cover no-repeat;
+  /* Or a solid color: */
+  /* background-color: #f8f9fa; */
+}
